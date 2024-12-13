@@ -12,14 +12,15 @@ pip install -r requirements.txt
 
 ## Istruzioni
 
-1. **Aprire il file principale:**
+1. **Estrarre la cartella Utilities e aprire il file principale:**
+   - Estrarre la cartella `Utilities.zip`
    - Utilizzare VS Code (o un editor compatibile con Colorama) per aprire il file `Ex. 4.py`.
 
-2. **Eseguire l'Esercizio 4:**
+3. **Eseguire l'Esercizio 4:**
    - Il file `Ex. 4.py` combina tutte le funzionalità necessarie per risolvere l'esercizio.
    - Seguire le istruzioni a schermo per inserire la funzione, il punto iniziale e i vincoli.
 
-3. **Uso delle funzioni singole:**
+4. **Uso delle funzioni singole:**
    - Tutte le funzioni utilizzate per risolvere l'Esercizio 4 sono organizzate nella cartella `Utilities`.
    - È possibile utilizzare ogni funzione separatamente importandola nei propri script.
 
